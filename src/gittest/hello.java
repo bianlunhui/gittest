@@ -7,7 +7,7 @@ public class hello {
 	System.out.println("tijiao1 ");
 	System.out.println("tijiao 2");
 	System.out.println("tijiao3 ");
-
+	System.out.println("tijiao4 ");
 	}
 
 }
